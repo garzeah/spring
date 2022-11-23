@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section 4 - Wiring Beans using @Autowiring.iml" filepath="$PROJECT_DIR$/.idea/Section 4 - Wiring Beans using @Autowiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wiring-beans-using-method-call/example9.iml" filepath="$PROJECT_DIR$/wiring-beans-using-method-call/example9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wiring-beans-using-method-parameters/example_10.iml" filepath="$PROJECT_DIR$/wiring-beans-using-method-parameters/example_10.iml" />
+    </modules>
+  </component>
+</project>
